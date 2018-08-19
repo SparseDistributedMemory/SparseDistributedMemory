@@ -1,10 +1,11 @@
-#  sdm.ai:  Explorations into the AI capabilities of Sparse Distributed Memory
+#  sdm.ai  
+==============
+### Explorations into the AI capabilities of Sparse Distributed Memory
 
 
 
 
-Sparse Distributed Memory Framework
-===================================
+### Sparse Distributed Memory Framework
 This project intends to be a framework which can be adapted to any usage of a Sparse Distributed Memory (Kanerva, 1988).  
 
  We have been working on Pentii Kanerva's Sparse Distributed Memory:
@@ -18,8 +19,7 @@ We would really like to ask users for feedback, and, should they find it useful,
 Brogliato, M.S.; Linhares, A. (2017) Sparse Distributed Memory: a reference implementation.  Working Paper, FGV, Vialink.
 
 
-How to build & test
-===================
+#### How to build & test
 To generate the library and run some tests:
 
     cd src/
@@ -37,6 +37,5 @@ In dev mode, there should be a symbolic link from `src/libsdm.so` to `sdm/_libsd
 	ln -s ../src/libsdm.so _libsdm.so
 
 
-How to install
-==============
+#### How to install
 This framework has the following dependencies: `libbsd` and `libOpenCL`.
