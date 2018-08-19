@@ -1,6 +1,8 @@
+![sdm.jpeg](sdm.jpeg)
+
 #  sdm.ai  
 Exploring the AI potential of _Sparse Distributed Memory_.
-![sdm.jpeg](sdm.jpeg)
+
 
 
 Desiderata: 
