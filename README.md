@@ -1,5 +1,5 @@
 #  sdm.ai  
-Exploring the (vast) AI capabilities of Sparse Distributed Memory.
+Exploring the AI potential of _Sparse Distributed Memory_.
 
 
 
