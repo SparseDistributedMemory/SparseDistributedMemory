@@ -1,5 +1,7 @@
 #  sdm.ai  
 Exploring the AI potential of _Sparse Distributed Memory_.
+![sdm.jpeg](sdm.jpeg)
+
 
 Desiderata: 
  * A massively parallel framework in which users can test cognitive neuroscience theories;
