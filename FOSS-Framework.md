@@ -1,27 +1,11 @@
 ---
 layout: page
-title: Open Source Framework
-permalink: /tools/FOSS.framework/
+title: SDM framework
+permalink: /tools/SDMframework/
 ---
 
-
-#  sdm.ai  
-We're working on a book on _Sparse Distributed Memory_.
-
-
-
-Desiderata:
- * A massively parallel framework in which users can test cognitive neuroscience theories;
- * a full documentation of the framework;
- * An open-source book, with a visual tutorial of the system, its relation to neuroscience and psychology, and numerous new scientific results;
- * A collection of SDM resources, links, chronology of papers, etc;
- * Slides following the Jupyter notebooks used;
- * A video-based mini-course on SDM.
-
-
-
-
-
+* A massively parallel framework in which users can test cognitive neuroscience theories;
+* a full documentation of the framework;
 
 
 
