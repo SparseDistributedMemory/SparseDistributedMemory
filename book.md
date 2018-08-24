@@ -4,7 +4,7 @@ title: Book
 permalink: /about/book/
 ---
 
-![sdm.jpeg](sdm.jpeg)
+![sdm.jpeg](/sdm.jpeg)
 
 #  sdm.ai  
 We're working on a book on _Sparse Distributed Memory_.
