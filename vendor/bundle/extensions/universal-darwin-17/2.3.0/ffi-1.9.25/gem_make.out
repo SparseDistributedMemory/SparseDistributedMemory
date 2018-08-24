@@ -1,5 +1,5 @@
 current directory: /Users/AL/SparseDistributedMemory/vendor/bundle/gems/ffi-1.9.25/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180824-49315-8h0198.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180824-55463-1m4620s.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... yes
 checking for ffi_call() in -lffi... yes
@@ -254,4 +254,4 @@ ld: warning: could not create compact unwind for _ffi_closure_REGISTER: register
 ld: warning: could not create compact unwind for _ffi_closure_STDCALL: does not use EBP or ESP based frame
 ld: warning: could not create compact unwind for _ffi_closure_raw_SYSV: does not use EBP or ESP based frame
 ld: warning: could not create compact unwind for _ffi_closure_raw_THISCALL: register saved more than once (might be shrink wrap)
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20180824-49315-1777mz1
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20180824-55463-184pbur
