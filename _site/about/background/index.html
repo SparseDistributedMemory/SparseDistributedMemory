@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Background | sdm.ai</title>
+<title>background | sdm.ai</title>
 <meta name="generator" content="Jekyll v3.8.3" />
-<meta property="og:title" content="Background" />
+<meta property="og:title" content="background" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Here at sdm.ai we are working on the deep AI implications of Finnish Scientist Pentti Kanerva’s Sparse Distributed Memory. All of our open-source activities are found here, such as a full computational framework for running SDM, multiple experiments in jupyter notebooks, full framework documentation, an ongoing open-source book, and much more." />
 <meta property="og:description" content="Here at sdm.ai we are working on the deep AI implications of Finnish Scientist Pentti Kanerva’s Sparse Distributed Memory. All of our open-source activities are found here, such as a full computational framework for running SDM, multiple experiments in jupyter notebooks, full framework documentation, an ongoing open-source book, and much more." />
@@ -13,7 +13,7 @@
 <meta property="og:url" content="http://localhost:4000/about/background/" />
 <meta property="og:site_name" content="sdm.ai" />
 <script type="application/ld+json">
-{"description":"Here at sdm.ai we are working on the deep AI implications of Finnish Scientist Pentti Kanerva’s Sparse Distributed Memory. All of our open-source activities are found here, such as a full computational framework for running SDM, multiple experiments in jupyter notebooks, full framework documentation, an ongoing open-source book, and much more.","@type":"WebPage","url":"http://localhost:4000/about/background/","headline":"Background","@context":"http://schema.org"}</script>
+{"description":"Here at sdm.ai we are working on the deep AI implications of Finnish Scientist Pentti Kanerva’s Sparse Distributed Memory. All of our open-source activities are found here, such as a full computational framework for running SDM, multiple experiments in jupyter notebooks, full framework documentation, an ongoing open-source book, and much more.","@type":"WebPage","url":"http://localhost:4000/about/background/","headline":"background","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="sdm.ai" /></head>
 <body><header class="site-header" role="banner">
@@ -28,7 +28,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/tools/FOSS.framework/">Open Source Framework</a><a class="page-link" href="/about/background/">Background</a><a class="page-link" href="/about/book/">Book</a><a class="page-link" href="/about/community/">community</a><a class="page-link" href="/about/">about</a><a class="page-link" href="/research/">research</a><a class="page-link" href="/tools/studies/">studies</a><a class="page-link" href="/tools/">tools</a><a class="page-link" href="/about/up%20to%20speed/">up to speed</a></div>
+        <div class="trigger"><a class="page-link" href="/tools/FOSS.framework/">Open Source Framework</a><a class="page-link" href="/about/background/">background</a><a class="page-link" href="/about/book/">book</a><a class="page-link" href="/about/community/">community</a><a class="page-link" href="/about/">about</a><a class="page-link" href="/research/">research</a><a class="page-link" href="/tools/studies/">studies</a><a class="page-link" href="/tools/">tools</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -36,16 +36,11 @@
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Background</h1>
+    <h1 class="post-title">background</h1>
   </header>
 
   <div class="post-content">
-    <p><img src="/sdm.jpeg" alt="sdm.jpeg" /></p>
-
-<h1 id="sdmai">sdm.ai</h1>
-<p>We’re working on a book on <em>Sparse Distributed Memory</em>.</p>
-
-<p>Desiderata:</p>
+    <p>Desiderata:</p>
 <ul>
   <li>A massively parallel framework in which users can test cognitive neuroscience theories;</li>
   <li>a full documentation of the framework;</li>
@@ -54,44 +49,6 @@
   <li>Slides following the Jupyter notebooks used;</li>
   <li>A video-based mini-course on SDM.</li>
 </ul>
-
-<h3 id="sparse-distributed-memory-framework">Sparse Distributed Memory Framework</h3>
-<p>This is a framework which can be adapted to any usage of a Sparse Distributed Memory (Kanerva, 1988):  new theoretical results, new applications, new machine learning models, etc.</p>
-
-<p>We have been working on Pentii Kanerva’s Sparse Distributed Memory:</p>
-<ul>
-  <li>The first <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015592">paper considered the range of dimensions that an SDM should have were it to respect i) chunking-by-averaging, and ii) the “magic number 7”</a>;</li>
-  <li>a second <a href="http://journal.frontiersin.org/article/10.3389/fnhum.2014.00222/full">paper studied the critical distance as the memory becomes saturated</a>;</li>
-  <li>a third paper (underway) studies interaction effects between different attractors, and</li>
-  <li>a fourth paper will document this <a href="https://github.com/msbrogli/sdm-framework">highly-palallel SDM framework</a> developed by <a href="https://github.com/msbrogli">Dr. Marcelo Brogliato</a>.</li>
-</ul>
-
-<p>We would really like to ask you for feedback, and, should you find it useful, please consider a link or citation:</p>
-
-<p>Brogliato, M.S.; Linhares, A. (2017) Sparse Distributed Memory: a reference implementation.  Working Paper, FGV, Vialink.</p>
-
-<h4 id="how-to-build--test">How to build &amp; test</h4>
-<p>To generate the library and run some tests:</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd src/
-make
-make tests
-./test1
-</code></pre></div></div>
-
-<p>To run Python tests:</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python tests.py
-</code></pre></div></div>
-
-<p>In dev mode, there should be a symbolic link from <code class="highlighter-rouge">src/libsdm.so</code> to <code class="highlighter-rouge">sdm/_libsdm.so</code>. If it does not exist, create one running:</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd sdm/
-ln -s ../src/libsdm.so _libsdm.so
-</code></pre></div></div>
-
-<h4 id="how-to-install">How to install</h4>
-<p>This framework has the following dependencies: <code class="highlighter-rouge">libbsd</code> and <code class="highlighter-rouge">libOpenCL</code>.</p>
 
   </div>
 
