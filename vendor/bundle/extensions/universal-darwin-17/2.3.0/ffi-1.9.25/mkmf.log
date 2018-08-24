@@ -123,7 +123,7 @@ ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app
 ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/lib'
 Undefined symbols for architecture x86_64:
   "_ffi_closure_alloc", referenced from:
-      _t in conftest-2558b4.o
+      _t in conftest-63f50c.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -175,7 +175,7 @@ ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app
 ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/lib'
 Undefined symbols for architecture x86_64:
   "_ffi_raw_call", referenced from:
-      _t in conftest-1849ae.o
+      _t in conftest-72ee6d.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -255,7 +255,7 @@ ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app
 ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/lib'
 Undefined symbols for architecture x86_64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-bbfec3.o
+      _t in conftest-06c6a2.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

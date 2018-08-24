@@ -1,11 +1,11 @@
-current directory: /Users/AL/jekyll-sdm-website/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180821-31543-fzdabk.rb extconf.rb
+current directory: /Users/AL/SparseDistributedMemory/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180824-48370-dq4354.rb extconf.rb
 creating Makefile
 
-current directory: /Users/AL/jekyll-sdm-website/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /Users/AL/SparseDistributedMemory/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" clean
 
-current directory: /Users/AL/jekyll-sdm-website/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /Users/AL/SparseDistributedMemory/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR="
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
@@ -15,6 +15,6 @@ ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app
 ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/libressl/lib'
 ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/lib'
 
-current directory: /Users/AL/jekyll-sdm-website/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /Users/AL/SparseDistributedMemory/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20180821-31543-1twsqjm
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20180824-48370-geje1e
