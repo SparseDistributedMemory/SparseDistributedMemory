@@ -17,7 +17,7 @@
 title: sdm.ai
 email: linhares@sdm.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Here at sdm.ai we are working on the deep AI implications of Finnish Scientist Pentti Kanerva's Sparse Distributed Memory.  All of our open-source activities are found here, such as a full computational framework for running SDM, multiple experiments in jupyter notebooks, full framework documentation, an ongoing open-source book, and much more.
+  Here at sdm.ai we are working on Sparse Distributed Memory.  All of our open-source activities are found here, such as a full computational framework for running SDM, multiple experiments in jupyter notebooks, full framework documentation, an ongoing open-source book, and much more.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
