@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #
-title: welcome to sdm.ai
+title: sdm.ai
 email: linhares@sdm.ai
 description: >- # this means to ignore newlines until "baseurl:"
   Here at sdm.ai we are working on the deep AI implications of Finnish Scientist Pentti Kanerva's Sparse Distributed Memory.  All of our open-source activities are found here, such as a full computational framework for running SDM, multiple experiments in jupyter notebooks, full framework documentation, an ongoing open-source book, and much more.
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  SparseDistributedMemory
+github_username:  Sparse Distributed Memory
 
 # Build settings
 markdown: kramdown
