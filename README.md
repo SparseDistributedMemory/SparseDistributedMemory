@@ -1,21 +1,78 @@
-![sdm.jpeg](sdm.jpeg)
+---
+layout: page
+title: about
+permalink: /about/
+---
 
-#  sdm.ai  
+![sdm.jpeg](/sdm.jpeg)
+
+
+> How is memory gradually built up during one’s conscious, or even unconscious,
+> life and thought? My guess is that everything we experience is classified and
+> registered on very many parallel channels in different locations.  
+> __Stanislaw Ulam__
+
+
+
+
+---
+> Pentti Kanerva’s memory model was a revelation for me: it was
+> the very first piece of research I had ever come across that made
+> me feel I could glimpse the distant goal of understanding how the
+> brain works as a whole. It gave me a concrete sense for how
+> familiar mental phenomena could be thought of as distributed
+> patterns of micro-events, thanks to beautiful mathematics.   
+> __Douglas Hofstadter__
+
+
+
+
+---
+> The emphasis might have been on the breadth of topics, in
+> detriment of depth here or there. The work on, say, reinforcement
+> learning, is most definitely not the last word we will see on the
+> subject, but a challenge left for readers to contemplate. But
+> this is due to our research group’s enthusiasm for the topic; we
+> do indeed believe that SDM is — if not correct — extremely close
+> to a full scientific understanding of human long-term memory. If
+> so, it is such a monumental achievement that we want readers to
+> be able to see all of what we see and imagine the vastness of
+> possibilities.
+>
+> Ralph Waldo Emerson once said: _do not go where the path may
+> lead. Go, instead, where there is no path, and leave a trail_.
+> Professor Pentti Kanerva has left the trail. It is my job to
+> illuminate it and to pave it and to clear it; to try to deliver
+> an easier pathway for the next generation. Some essays
+> completely shut the door close at the end; this one intends to
+> leave it wide open. As the reader might have noticed, this final
+> section does not read as an analysis of the work done; it reads,
+> instead, as a desideratum, a prologue, a yearning for others to
+> join me in imagining the shape of things to come.  
+> __Marcelo S. Brogliato__
+
+---
+
+### Welcome to sdm.ai.  
+
 Exploring the AI potential of _Sparse Distributed Memory_.
 
+Here you will find all sorts of resources to start (or enhance) your research (or industrial) work on models related to Pentti Kanerva's Sparse Distributed Memory.
 
-
-Desiderata: 
- * A massively parallel framework in which users can test cognitive neuroscience theories;
- * a full documentation of the framework;
- * An open-source book, with a visual tutorial of the system, its relation to neuroscience and psychology, and numerous new scientific results;
- * A collection of SDM resources, links, chronology of papers, etc; 
- * Slides following the Jupyter notebooks used; 
- * A video-based mini-course on SDM.
+Some things are as silly as a small jupyter notebook, toying around with some experiment, or with the mathematics of SDM. Others include a full-blown massively parallel GPGU Cross-platform open-source buzzword-complete framework.   
 
 
 
+### here's our desiderata:
 
+     * A massively parallel framework in which users can test cognitive neuroscience theories;
+     * a full documentation of the framework;
+     * An open-source book, with a visual tutorial of the system, its relation to neuroscience and psychology, and numerous new scientific results;
+     * A collection of SDM resources, links, chronology of papers, etc;
+     * Slides following the Jupyter notebooks used;
+     * A video-based mini-course on SDM.
+
+---
 
 
 
